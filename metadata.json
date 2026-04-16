@@ -1,0 +1,6 @@
+{
+  "name": "Biblia Sagrada Q&A",
+  "description": "Una aplicación inteligente de preguntas y respuestas sobre la Santa Biblia Católica, con datos precisos y referencias bíblicas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
